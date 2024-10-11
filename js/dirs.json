@@ -1,0 +1,113 @@
+{
+    "reading":{
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "SlimeRead",
+                "type": [0],
+                "urls": ["https://slimeread.com/"],
+                "opinion": "",
+                "description": "Disponibiliza mangás",
+                "icon": "imgs/slimeread.png",
+                "status": 1
+            }
+        }
+    },
+    "streaming":{
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "YouCine",
+                "type": [0],
+                "urls": ["https://youcine.io/"],
+                "opinion": "",
+                "description": "Plataforma de streaming",
+                "icon": "imgs/youcine.png",
+                "status": 1
+            }
+        }
+    },
+    "games":{
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "Fitgirl",
+                "type": [0],
+                "urls": ["https://fitgirl-repacks.site/"],
+                "opinion": "",
+                "description": "Provedor de torrents",
+                "icon": "imgs/fitgirl.webp",
+                "status": 1
+            },
+            "1": {
+                "title": "Coolrom",
+                "type": [0],
+                "urls": ["https://coolrom.com.au/"],
+                "opinion": "",
+                "description": "Baixador de isos para consoles",
+                "icon": "imgs/coolroms.png",
+                "status": 1
+            },
+            "2": {
+                "title": "Hydra",
+                "type": [1],
+                "urls": ["https://github.com/hydralauncher/hydra?tab=readme-ov-file#installation"],
+                "opinion": "",
+                "description": "Hydra é um Game Launcher com seu próprio cliente BitTorrent incorporado.",
+                "icon": "imgs/hydra_launcher.webp",
+                "status": 1
+            }
+        }
+    },
+    "onions": {
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "Z-library",
+                "type": [0],
+                "urls": ["http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/"],
+                "opinion": "",
+                "description": "Biblioteca online",
+                "icon": "imgs/onions666.png",
+                "status": 999
+            }
+        }
+    },
+    "indexers":{
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "Dark Web - Onion Directory",
+                "type": [0],
+                "urls": ["https://onion666.com/"],
+                "opinion": "",
+                "description": "Diretório de onions",
+                "icon": "imgs/onions666.png",
+                "status": 1
+            },
+            "1": {
+                "title": "1337x",
+                "type": [0],
+                "urls": ["https://www.1337x.tw/", "https://1337x.to/", "https://www.1377x.to/", "https://www.1337xx.to/"],
+                "opinion": "",
+                "description": "Fornece um diretório de arquivos torrent e links magnéticos usados ​​para compartilhamento de arquivos ponto a ponto por meio do protocolo BitTorrent.",
+                "icon": "imgs/1337x.svg",
+                "status": 1
+            }
+        }
+    },
+    "multimedia":{
+        "description": "",
+        "infos":{
+            "0": {
+                "title": "Internet Archive",
+                "type": [0],
+                "urls": ["https://archive.org/", "https://archive6zg5vrdwm4ljllgxleekeoj43lqayscd4d4kmhnyblq4h3ead.onion/"],
+                "opinion": "",
+                "description": "Organização sem fins lucrativos dedicada a manter um arquivo multimídia de informações.",
+                "icon": "imgs/Internet_Archive.png",
+                "status": 2
+            }
+        }
+    }
+}
